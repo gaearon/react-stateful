@@ -27,10 +27,6 @@ This repo was inspired by [react-controllables](https://github.com/matthewwithan
 
 This example assumes [ES7 decorators](https://github.com/wycats/javascript-decorators) ([Babel](https://babeljs.io/) supports them with `"stage": 1`). However they're easy and clean to write in desugared form, so try [Babel REPL](https://babeljs.io/repl/) if you're curious.
 
-### Example
-
-This code needs Babel stage 1 enabled for the decorator syntax to work.
-
 ```js
 import React, { PropTypes } from 'react';
 import Stateful from 'react-stateful';
