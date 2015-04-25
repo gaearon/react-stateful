@@ -1,0 +1,31 @@
+{
+  "name": "react-stateful",
+  "version": "1.0.0",
+  "description": "A higher-order React component for state",
+  "main": "modules/index.js",
+  "scripts": {
+    "build": "./scripts/build",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaearon/react-stateful.git"
+  },
+  "keywords": [
+    "react",
+    "state",
+    "hoc"
+  ],
+  "author": "Dan Abramov <dan.abramov@me.com> (http://github.com/gaearon)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gaearon/react-stateful/issues"
+  },
+  "homepage": "https://github.com/gaearon/react-stateful",
+  "devDependencies": {
+    "babel": "^5.1.11"
+  },
+  "peerDependencies": {
+    "react": ">=0.13.0"
+  }
+}
