@@ -1,5 +1,8 @@
 # react-stateful
 
+>*The last enemy that shall be destroyed is `this`.*  
+>— An old JavaScript tutorial
+
 A [higher-order React component](https://medium.com/@dan_abramov/mixins-are-dead-long-live-higher-order-components-94a0d2f9e750) for lifting simple state and keeping your components pure.  
 
 This API is tiny and experimental.  
