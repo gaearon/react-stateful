@@ -1,4 +1,4 @@
-import { Component } from 'react';
+import React, { Component } from 'react';
 
 export default function Stateful({ initialize, reducers }) {
   return DecoratedComponent => class StateContainer extends Component {
