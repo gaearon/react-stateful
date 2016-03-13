@@ -1,3 +1,12 @@
+# No Maintenance Intended
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+<img src='http://i.imgur.com/S8ddNDs.gif' height='200'>
+
+This project is no longer maintained. It does its job, but there are no plans to extend or change it.  
+We don’t recommend you to depend on it, but you are free to reimplement a similar idea if you’d like.
+
 # react-stateful
 
 >*The last enemy that shall be destroyed is `this`.*  
